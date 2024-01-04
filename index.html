@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="app.css">
+    <title>Tic Tac Toe</title>
+</head>
+<body>
+    <h1>Tic Tac Toe!</h1>
+    <p id="playerTurn">Player: </p>
+
+    <div id="buttons">
+        <div id="row1">
+            <button id="position1" class="btnActive" onclick="gameFlow(0)"></button>
+            <button id="position2" class="btnActive" onclick="gameFlow(1)"></button>
+            <button id="position3" class="btnActive" onclick="gameFlow(2)"></button>
+        </div>
+        <div id="row2">
+            <button id="position4" class="btnActive" onclick="gameFlow(3)"></button>
+            <button id="position5" class="btnActive" onclick="gameFlow(4)"></button>
+            <button id="position6" class="btnActive" onclick="gameFlow(5)"></button>
+        </div>
+        <div id="row3">
+            <button id="position7" class="btnActive" onclick="gameFlow(6)"></button>
+            <button id="position8" class="btnActive" onclick="gameFlow(7)"></button>
+            <button id="position9" class="btnActive" onclick="gameFlow(8)"></button>
+        </div>
+    </div>
+    <script src="js.js"></script>
+</body>
+</html>
