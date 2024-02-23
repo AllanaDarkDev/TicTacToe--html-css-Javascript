@@ -4,7 +4,7 @@ Bem-vindo(a) ao repositório do Jogo da Velha desenvolvido com paixão e dedica�
 
 ## ℹ️ Como Jogar
 
-1. Acesse o [link do jogo da velha](https://github.com/AllanaDarkDev/TicTacToe--html-css-Javascript) e mergulhe em um mundo de diversão.
+1. Acesse o [link do jogo da velha](https://allanadarkdev.github.io/TicTacToe--html-css-Javascript/) e mergulhe em um mundo de diversão.
 2. O tabuleiro do jogo da velha irá encantá-lo(a) com seu design elegante e colorido.
 3. Os jogadores alternam entre "X" e "O" para marcar um espaço vazio no tabuleiro.
 4. O objetivo é alcançar três símbolos iguais em uma linha horizontal, vertical ou diagonal.
